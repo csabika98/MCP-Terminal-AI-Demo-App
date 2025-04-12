@@ -13,7 +13,7 @@ A terminal-based AI assistant powered by a Master Control Program (MCP) interfac
   - `list` – view directories, processes, etc.
   - `remove` – delete files or folders
   - `write` / `create` – generate files or scripts
-- Runs locally with no external API calls (privacy-focused)
+- Runs locally with no external API calls (privacy-focused) or via API calls
 
 
 # Demo screenshot With Ollama
