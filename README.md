@@ -1,21 +1,19 @@
 # MCP-Terminal-App
 
-A terminal-based AI assistant powered by a Master Control Program (MCP) interface and a local LLM. Run natural language commands like execute, create, list, and more—directly on your machine.
+A terminal-based AI assistant powered by a Master Control Program (MCP) interface and a local LLM. Run natural language commands like `execute`, `create`, `list`, and more—directly on your machine.
 
-Works with any local LLM (e.g., via Ollama)
+## Under-development, it will be public later.
 
-Interprets and runs shell-level commands through natural language like 
+## Features
 
-execute – run terminal commands
-
-list – view directories, processes, etc.
-
-remove – delete files or folders
-
-write / create – generate files or scripts
-
-
-Can be run locally with no external API calls (privacy-focused) or via API
+- Works with any local LLM (e.g., via Ollama)
+- Interprets and runs shell-level commands through natural language
+- FOR EXAMPLE:
+  - `execute` – run terminal commands
+  - `list` – view directories, processes, etc.
+  - `remove` – delete files or folders
+  - `write` / `create` – generate files or scripts
+- Runs locally with no external API calls (privacy-focused)
 
 
 # Demo screenshot With Ollama
